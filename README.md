@@ -20,3 +20,11 @@
 | 数组 | [88. 合并两个有序数组 merge-sorted-array](https://leetcode.cn/problems/merge-sorted-array/) | [merge-sorted-array.py](Python/merge-sorted-array.py) | Easy |
 | 数组 | [350. 两个数组的交集 II intersection-of-two-arrays-ii](https://leetcode.cn/problems/intersection-of-two-arrays-ii/) | [merge-sorted-array.py](Python/intersection-of-two-arrays-ii.py) | Easy |
 | 数组 | [121. 买卖股票的最佳时机 best-time-to-buy-and-sell-stock](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock/) | [best-time-to-buy-and-sell-stock.py](Python/best-time-to-buy-and-sell-stock.py) | Easy |
+| 数组 | [566. 重塑矩阵 reshape-the-matrix](https://leetcode.cn/problems/reshape-the-matrix/) | [reshape-the-matrix.py](Python/reshape-the-matrix.py) | Easy |
+| 数组 | [118. 杨辉三角 pascals-triangle](https://leetcode.cn/problems/pascals-triangle/) | [pascals-triangle.py](Python/pascals-triangle.py) | Easy |
+| 数组 | [36. 有效的数独 valid-sudoku](https://leetcode.cn/problems/valid-sudoku/) | [valid-sudoku.py](Python/valid-sudoku.py) | Medium |
+| 数组 | [73. 矩阵置零 set-matrix-zeroes](https://leetcode.cn/problems/set-matrix-zeroes/) | [set-matrix-zeroes.py](Python/set-matrix-zeroes.py) | Medium |
+
+
+
+
