@@ -12,7 +12,7 @@
 | 2023/03/09 | [剑指 Offer 47. 礼物的最大价值 minimum-recolors-to-get-k-consecutive-black-blocks](https://leetcode.cn/problems/minimum-recolors-to-get-k-consecutive-black-blocks/) | [minimum-recolors-to-get-k-consecutive-black-blocks.py](Python/minimum-recolors-to-get-k-consecutive-black-blocks.py) | Easy |
 | 2023/03/10 | [*1590. 使数组和能被 P 整除 make-sum-divisible-by-p*](https://leetcode.cn/problems/make-sum-divisible-by-p/) | [make-sum-divisible-by-p.py](Python/make-sum-divisible-by-p.py) | Medium |
 | 2023/03/11 | [面试题 17.05.  字母与数字 find-longest-subarray-lcci](https://leetcode.cn/problems/find-longest-subarray-lcci/) | [find-longest-subarray-lcci.py](Python/find-longest-subarray-lcci.py) | Medium |
-| 2023/03/11 | [*1617. 统计子树中城市之间最大距离 count-subtrees-with-max-distance-between-cities*](https://leetcode.cn/problems/count-subtrees-with-max-distance-between-cities/) | [count-subtrees-with-max-distance-between-cities.py](Python/count-subtrees-with-max-distance-between-cities.py) | Hard |
+| 2023/03/11 | [ *1617. 统计子树中城市之间最大距离 count-subtrees-with-max-distance-between-cities*](https://leetcode.cn/problems/count-subtrees-with-max-distance-between-cities/) | [count-subtrees-with-max-distance-between-cities.py](Python/count-subtrees-with-max-distance-between-cities.py) | Hard |
 
 ## 学习计划
 
@@ -30,7 +30,9 @@
 | 数组 | [118. 杨辉三角 pascals-triangle](https://leetcode.cn/problems/pascals-triangle/) | [pascals-triangle.py](Python/pascals-triangle.py) | Easy |
 | 数组 | [36. 有效的数独 valid-sudoku](https://leetcode.cn/problems/valid-sudoku/) | [valid-sudoku.py](Python/valid-sudoku.py) | Medium |
 | 数组 | [73. 矩阵置零 set-matrix-zeroes](https://leetcode.cn/problems/set-matrix-zeroes/) | [set-matrix-zeroes.py](Python/set-matrix-zeroes.py) | Medium |
-
+| 字符串 | [387. 字符串中的第一个唯一字符 first-unique-character-in-a-string](https://leetcode.cn/problems/first-unique-character-in-a-string/) | [first-unique-character-in-a-string.py](Python/first-unique-character-in-a-string.py) | Easy |
+| 字符串 | [383. 赎金信 ransom-note](https://leetcode.cn/problems/ransom-note/) | [ransom-note.py](Python/ransom-note.py) | Easy |
+| 字符串 | [242. 有效的字母异位词 valid-anagram](https://leetcode.cn/problems/valid-anagram/) | [valid-anagram.py](Python/valid-anagram.py) | Easy |
 
 
 
