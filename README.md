@@ -14,6 +14,7 @@
 | 2023/03/11 | [面试题 17.05.  字母与数字 find-longest-subarray-lcci](https://leetcode.cn/problems/find-longest-subarray-lcci/) | [find-longest-subarray-lcci.py](Python/find-longest-subarray-lcci.py) | Medium |
 | 2023/03/11 | [ *1617. 统计子树中城市之间最大距离 count-subtrees-with-max-distance-between-cities*](https://leetcode.cn/problems/count-subtrees-with-max-distance-between-cities/) | [count-subtrees-with-max-distance-between-cities.py](Python/count-subtrees-with-max-distance-between-cities.py) | Hard |
 | 2023/03/12 | [ 2383. 赢得比赛需要的最少训练时长 minimum-hours-of-training-to-win-a-competition](https://leetcode.cn/problems/minimum-hours-of-training-to-win-a-competition/) | [minimum-hours-of-training-to-win-a-competition.py](Python/minimum-hours-of-training-to-win-a-competition.py) | Easy |
+| 2023/03/13 | [ 1605. 给定行和列的和求可行矩阵 find-valid-matrix-given-row-and-column-sums](https://leetcode.cn/problems/find-valid-matrix-given-row-and-column-sums/) | [find-valid-matrix-given-row-and-column-sums.py](Python/find-valid-matrix-given-row-and-column-sums.py) | Easy |
 
 ## 学习计划
 
