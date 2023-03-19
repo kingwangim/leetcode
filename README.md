@@ -39,6 +39,10 @@
 | 字符串 | [387. 字符串中的第一个唯一字符 first-unique-character-in-a-string](https://leetcode.cn/problems/first-unique-character-in-a-string/) | [first-unique-character-in-a-string.py](Python/first-unique-character-in-a-string.py) | Easy |
 | 字符串 | [383. 赎金信 ransom-note](https://leetcode.cn/problems/ransom-note/) | [ransom-note.py](Python/ransom-note.py) | Easy |
 | 字符串 | [242. 有效的字母异位词 valid-anagram](https://leetcode.cn/problems/valid-anagram/) | [valid-anagram.py](Python/valid-anagram.py) | Easy |
+| 链表 | [141. 环形链表 linked-list-cycle](https://leetcode.cn/problems/linked-list-cycle/) | [linked-list-cycle.py](Python/linked-list-cycle.py) | Easy |
+| 链表 | [21. 合并两个有序链表 merge-two-sorted-lists](https://leetcode.cn/problems/merge-two-sorted-lists/) | [valid-anagram.py](Python/merge-two-sorted-lists.py) | Easy |
+| 链表 | [203. 移除链表元素 remove-linked-list-elements ](https://leetcode.cn/problems/remove-linked-list-elements/) | [remove-linked-list-elements.py](Python/remove-linked-list-elements.py) | Easy |
+
 
 
 
