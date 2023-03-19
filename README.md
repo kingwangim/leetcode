@@ -18,6 +18,7 @@
 | 2023/03/15 | [ 1615. 最大网络秩 maximal-network-rank ](https://leetcode.cn/problems/maximal-network-rank/) | [maximal-network-rank.py](Python/maximal-network-rank.py) | Medium |
 | 2023/03/16 | [ *2488. 统计中位数为 K 的子数组 count-subarrays-with-median-k* ](https://leetcode.cn/problems/count-subarrays-with-median-k/) | [count-subarrays-with-median-k.py](Python/count-subarrays-with-median-k.py) | Hard |
 | 2023/03/18 | [ 1616. 分割两个字符串得到回文串 split-two-strings-to-make-palindrome ](https://leetcode.cn/problems/split-two-strings-to-make-palindrome/) | [split-two-strings-to-make-palindrome](Python/split-two-strings-to-make-palindrome.py) | Medium |
+| 2023/03/19 | [ 1625. 执行操作后字典序最小的字符串 lexicographically-smallest-string-after-applying-operations ](https://leetcode.cn/problems/lexicographically-smallest-string-after-applying-operations/) | [lexicographically-smallest-string-after-applying-operations](Python/lexicographically-smallest-string-after-applying-operations.py) | Medium |
 
 ## 学习计划
 
