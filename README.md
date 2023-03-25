@@ -23,6 +23,7 @@
 | 2023/03/22 | [ *1626. 无矛盾的最佳球队 best-team-with-no-conflicts* ](https://leetcode.cn/problems/best-team-with-no-conflicts/) | [best-team-with-no-conflicts](Python/best-team-with-no-conflicts.py) | Medium |
 | 2023/03/23 | [ 1630. 等差子数组 arithmetic-subarrays ](https://leetcode.cn/problems/arithmetic-subarrays/) | [arithmetic-subarrays](Python/arithmetic-subarrays.py) | Medium |
 | 2023/03/24 | [ 1032. 字符流 stream-of-characters ](https://leetcode.cn/problems/stream-of-characters/) | [stream-of-characters](Python/stream-of-characters.py) | Hard |
+| 2023/03/25 | [ 1574.删除最短的子数组使剩余数组有序 shortest-subarray-to-be-removed-to-make-array-sorted ](https://leetcode.cn/problems/shortest-subarray-to-be-removed-to-make-array-sorted/) | [shortest-subarray-to-be-removed-to-make-array-sorted](Python/shortest-subarray-to-be-removed-to-make-array-sorted.py) | Medium |
 
 ## 学习计划
 
