@@ -25,6 +25,7 @@
 | 2023/03/24 | [ 1032. 字符流 stream-of-characters ](https://leetcode.cn/problems/stream-of-characters/) | [stream-of-characters](Python/stream-of-characters.py) | Hard |
 | 2023/03/25 | [ 1574.删除最短的子数组使剩余数组有序 shortest-subarray-to-be-removed-to-make-array-sorted ](https://leetcode.cn/problems/shortest-subarray-to-be-removed-to-make-array-sorted/) | [shortest-subarray-to-be-removed-to-make-array-sorted](Python/shortest-subarray-to-be-removed-to-make-array-sorted.py) | Medium |
 | 2023/03/26 | [ 2395. 和相等的子数组 find-subarrays-with-equal-sum ](https://leetcode.cn/problems/find-subarrays-with-equal-sum/) | [find-subarrays-with-equal-sum](Python/find-subarrays-with-equal-sum.py) | Easy |
+| 2023/03/27 | [ *1638. 统计只差一个字符的子串数目 count-substrings-that-differ-by-one-character* ](https://leetcode.cn/problems/count-substrings-that-differ-by-one-character/) | [count-substrings-that-differ-by-one-character](Python/count-substrings-that-differ-by-one-character.py) | Medium |
 
 ## 学习计划
 
