@@ -29,6 +29,7 @@
 | 2023/03/28 | [ *1092. 最短公共超序列 shortest-common-supersequence* ](https://leetcode.cn/problems/shortest-common-supersequence/) | [shortest-common-supersequence](Python/shortest-common-supersequence.py) | Hard |
 | 2023/03/29 | [ 1641. 统计字典序元音字符串的数目 count-sorted-vowel-strings ](https://leetcode.cn/problems/count-sorted-vowel-strings/) | [count-sorted-vowel-strings](Python/count-sorted-vowel-strings.py) | Medium |
 | 2023/03/30 | [ 1637. 两点之间不包含任何点的最宽垂直区域 widest-vertical-area-between-two-points-containing-no-points ](https://leetcode.cn/problems/widest-vertical-area-between-two-points-containing-no-points/) | [widest-vertical-area-between-two-points-containing-no-points](Python/widest-vertical-area-between-two-points-containing-no-points.py) | Medium |
+| 2023/03/31 | [ 2367. 算术三元组的数目 number-of-arithmetic-triplets ](https://leetcode.cn/problems/number-of-arithmetic-triplets/) | [number-of-arithmetic-triplets](Python/number-of-arithmetic-triplets.py) | Easy |
 
 ## 学习计划
 
