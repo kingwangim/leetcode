@@ -30,6 +30,7 @@
 | 2023/03/29 | [ 1641. 统计字典序元音字符串的数目 count-sorted-vowel-strings ](https://leetcode.cn/problems/count-sorted-vowel-strings/) | [count-sorted-vowel-strings](Python/count-sorted-vowel-strings.py) | Medium |
 | 2023/03/30 | [ 1637. 两点之间不包含任何点的最宽垂直区域 widest-vertical-area-between-two-points-containing-no-points ](https://leetcode.cn/problems/widest-vertical-area-between-two-points-containing-no-points/) | [widest-vertical-area-between-two-points-containing-no-points](Python/widest-vertical-area-between-two-points-containing-no-points.py) | Medium |
 | 2023/03/31 | [ 2367. 算术三元组的数目 number-of-arithmetic-triplets ](https://leetcode.cn/problems/number-of-arithmetic-triplets/) | [number-of-arithmetic-triplets](Python/number-of-arithmetic-triplets.py) | Easy |
+| 2023/04/01 | [ 831. 隐藏个人信息 masking-personal-information ](https://leetcode.cn/problems/masking-personal-information/) | [masking-personal-information](Python/masking-personal-information.py) | Medium |
 
 ## 学习计划
 
