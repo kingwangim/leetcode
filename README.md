@@ -32,6 +32,7 @@
 | 2023/03/31 | [ 2367. 算术三元组的数目 number-of-arithmetic-triplets ](https://leetcode.cn/problems/number-of-arithmetic-triplets/) | [number-of-arithmetic-triplets](Python/number-of-arithmetic-triplets.py) | Easy |
 | 2023/04/01 | [ 831. 隐藏个人信息 masking-personal-information ](https://leetcode.cn/problems/masking-personal-information/) | [masking-personal-information](Python/masking-personal-information.py) | Medium |
 | 2023/04/02 | [ 1039. 多边形三角剖分的最低得分 minimum-score-triangulation-of-polygon ](https://leetcode.cn/problems/minimum-score-triangulation-of-polygon/) | [minimum-score-triangulation-of-polygon](Python/minimum-score-triangulation-of-polygon.py) | Medium |
+| 2023/04/03 | [ 1053. 交换一次的先前排列 previous-permutation-with-one-swap ](https://leetcode.cn/problems/previous-permutation-with-one-swap/) | [previous-permutation-with-one-swap](Python/previous-permutation-with-one-swap.py) | Medium |
 
 ## 学习计划
 
