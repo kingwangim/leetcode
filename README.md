@@ -33,6 +33,7 @@
 | 2023/04/01 | [ 831. 隐藏个人信息 masking-personal-information ](https://leetcode.cn/problems/masking-personal-information/) | [masking-personal-information](Python/masking-personal-information.py) | Medium |
 | 2023/04/02 | [ 1039. 多边形三角剖分的最低得分 minimum-score-triangulation-of-polygon ](https://leetcode.cn/problems/minimum-score-triangulation-of-polygon/) | [minimum-score-triangulation-of-polygon](Python/minimum-score-triangulation-of-polygon.py) | Medium |
 | 2023/04/03 | [ 1053. 交换一次的先前排列 previous-permutation-with-one-swap ](https://leetcode.cn/problems/previous-permutation-with-one-swap/) | [previous-permutation-with-one-swap](Python/previous-permutation-with-one-swap.py) | Medium |
+| 2023/04/04 | [ *1000. 合并石头的最低成本 minimum-cost-to-merge-stones* ](https://leetcode.cn/problems/minimum-cost-to-merge-stones/) | [minimum-cost-to-merge-stones](Python/minimum-cost-to-merge-stones.py) | Hard |
 
 ## 学习计划
 
