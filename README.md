@@ -35,6 +35,7 @@
 | 2023/04/03 | [ 1053. 交换一次的先前排列 previous-permutation-with-one-swap ](https://leetcode.cn/problems/previous-permutation-with-one-swap/) | [previous-permutation-with-one-swap](Python/previous-permutation-with-one-swap.py) | Medium |
 | 2023/04/04 | [ *1000. 合并石头的最低成本 minimum-cost-to-merge-stones* ](https://leetcode.cn/problems/minimum-cost-to-merge-stones/) | [minimum-cost-to-merge-stones](Python/minimum-cost-to-merge-stones.py) | Hard |
 | 2023/04/05 | [ 2427. 公因子的数目 number-of-common-factors ](https://leetcode.cn/problems/number-of-common-factors/) | [number-of-common-factors](Python/number-of-common-factors.py) | Easy |
+| 2023/04/06 | [ 1017. 负二进制转换 convert-to-base-2 ](https://leetcode.cn/problems/convert-to-base-2/) | [convert-to-base-2](Python/convert-to-base-2.py) | Easy |
 
 ## 学习计划
 
