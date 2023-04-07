@@ -36,6 +36,7 @@
 | 2023/04/04 | [ *1000. 合并石头的最低成本 minimum-cost-to-merge-stones* ](https://leetcode.cn/problems/minimum-cost-to-merge-stones/) | [minimum-cost-to-merge-stones](Python/minimum-cost-to-merge-stones.py) | Hard |
 | 2023/04/05 | [ 2427. 公因子的数目 number-of-common-factors ](https://leetcode.cn/problems/number-of-common-factors/) | [number-of-common-factors](Python/number-of-common-factors.py) | Easy |
 | 2023/04/06 | [ 1017. 负二进制转换 convert-to-base-2 ](https://leetcode.cn/problems/convert-to-base-2/) | [convert-to-base-2](Python/convert-to-base-2.py) | Easy |
+| 2023/04/07 | [ 1040. 移动石子直到连续 II moving-stones-until-consecutive-ii ](https://leetcode.cn/problems/moving-stones-until-consecutive-ii/) | [moving-stones-until-consecutive-ii](Python/moving-stones-until-consecutive-ii.py) | Medium |
 
 ## 学习计划
 
@@ -59,7 +60,3 @@
 | 链表 | [141. 环形链表 linked-list-cycle](https://leetcode.cn/problems/linked-list-cycle/) | [linked-list-cycle.py](Python/linked-list-cycle.py) | Easy |
 | 链表 | [21. 合并两个有序链表 merge-two-sorted-lists](https://leetcode.cn/problems/merge-two-sorted-lists/) | [valid-anagram.py](Python/merge-two-sorted-lists.py) | Easy |
 | 链表 | [203. 移除链表元素 remove-linked-list-elements ](https://leetcode.cn/problems/remove-linked-list-elements/) | [remove-linked-list-elements.py](Python/remove-linked-list-elements.py) | Easy |
-
-
-
-
