@@ -60,3 +60,5 @@
 | 链表 | [141. 环形链表 linked-list-cycle](https://leetcode.cn/problems/linked-list-cycle/) | [linked-list-cycle.py](Python/linked-list-cycle.py) | Easy |
 | 链表 | [21. 合并两个有序链表 merge-two-sorted-lists](https://leetcode.cn/problems/merge-two-sorted-lists/) | [valid-anagram.py](Python/merge-two-sorted-lists.py) | Easy |
 | 链表 | [203. 移除链表元素 remove-linked-list-elements ](https://leetcode.cn/problems/remove-linked-list-elements/) | [remove-linked-list-elements.py](Python/remove-linked-list-elements.py) | Easy |
+| 链表 | [206. 反转链表 reverse-linked-list ](https://leetcode.cn/problems/reverse-linked-list/) | [reverse-linked-list.py](Python/remove-linked-list-elements.py) | Easy |
+| 链表 | [83. 删除排序链表中的重复元素 remove-duplicates-from-sorted-list ](https://leetcode.cn/problems/remove-duplicates-from-sorted-list/) | [remove-duplicates-from-sorted-list.py](Python/remove-duplicates-from-sorted-list.py) | Easy |
