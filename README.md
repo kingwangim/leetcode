@@ -37,6 +37,7 @@
 | 2023/04/05 | [ 2427. 公因子的数目 number-of-common-factors ](https://leetcode.cn/problems/number-of-common-factors/) | [number-of-common-factors](Python/number-of-common-factors.py) | Easy |
 | 2023/04/06 | [ 1017. 负二进制转换 convert-to-base-2 ](https://leetcode.cn/problems/convert-to-base-2/) | [convert-to-base-2](Python/convert-to-base-2.py) | Easy |
 | 2023/04/07 | [ 1040. 移动石子直到连续 II moving-stones-until-consecutive-ii ](https://leetcode.cn/problems/moving-stones-until-consecutive-ii/) | [moving-stones-until-consecutive-ii](Python/moving-stones-until-consecutive-ii.py) | Medium |
+| 2023/04/08 | [ *1125. 最小的必要团队 smallest-sufficient-team* ](https://leetcode.cn/problems/smallest-sufficient-team/) | [smallest-sufficient-team](Python/smallest-sufficient-team.py) | Hard |
 
 ## 学习计划
 
