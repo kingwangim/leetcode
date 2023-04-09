@@ -67,3 +67,6 @@
 | 链表 | [83. 删除排序链表中的重复元素 remove-duplicates-from-sorted-list ](https://leetcode.cn/problems/remove-duplicates-from-sorted-list/) | [remove-duplicates-from-sorted-list.py](Python/remove-duplicates-from-sorted-list.py) | Easy |
 | 栈/队列 | [20. 有效的括号 valid-parentheses ](https://leetcode.cn/problems/valid-parentheses/) | [valid-parentheses.py](Python/valid-parentheses.py) | Easy |
 | 栈/队列 | [232. 用栈实现队列 implement-queue-using-stacks ](https://leetcode.cn/problems/implement-queue-using-stacks/) | [implement-queue-using-stacks.py](Python/implement-queue-using-stacks.py) | Easy |
+| 树 | [144. 二叉树的前序遍历 binary-tree-preorder-traversal ](https://leetcode.cn/problems/binary-tree-preorder-traversal/) | [binary-tree-preorder-traversal.py](Python/binary-tree-preorder-traversal.py) | Easy |
+| 树 | [94. 二叉树的中序遍历 binary-tree-inorder-traversal ](https://leetcode.cn/problems/binary-tree-inorder-traversal/) | [binary-tree-inorder-traversal.py](Python/binary-tree-inorder-traversal.py) | Easy |
+| 树 | [145. 二叉树的后序遍历 binary-tree-postorder-traversal ](https://leetcode.cn/problems/binary-tree-postorder-traversal/) | [binary-tree-postorder-traversal.py](Python/binary-tree-postorder-traversal.py) | Easy |
