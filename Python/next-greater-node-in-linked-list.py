@@ -5,7 +5,7 @@
 #         self.next = next
 class Solution:
     def nextLargerNodes(self, head: Optional[ListNode]) -> List[int]:
-        nums,res = [], []
+        nums, res = [], []
         while head:
             nums.append(head.val)
             head = head.next

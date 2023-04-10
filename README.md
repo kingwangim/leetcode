@@ -70,3 +70,6 @@
 | 树 | [144. 二叉树的前序遍历 binary-tree-preorder-traversal ](https://leetcode.cn/problems/binary-tree-preorder-traversal/) | [binary-tree-preorder-traversal.py](Python/binary-tree-preorder-traversal.py) | Easy |
 | 树 | [94. 二叉树的中序遍历 binary-tree-inorder-traversal ](https://leetcode.cn/problems/binary-tree-inorder-traversal/) | [binary-tree-inorder-traversal.py](Python/binary-tree-inorder-traversal.py) | Easy |
 | 树 | [145. 二叉树的后序遍历 binary-tree-postorder-traversal ](https://leetcode.cn/problems/binary-tree-postorder-traversal/) | [binary-tree-postorder-traversal.py](Python/binary-tree-postorder-traversal.py) | Easy |
+| 树 | [*102. 二叉树的层序遍历 binary-tree-level-order-traversal*](https://leetcode.cn/problems/binary-tree-level-order-traversal/) | [binary-tree-level-order-traversal.py](Python/binary-tree-level-order-traversal.py) | Medium |
+| 树 | [*104. 二叉树的最大深度 maximum-depth-of-binary-tree*](https://leetcode.cn/problems/maximum-depth-of-binary-tree/) | [maximum-depth-of-binary-tree.py](Python/maximum-depth-of-binary-tree.py) | Easy |
+| 树 | [*101. 对称二叉树 symmetric-tree*](https://leetcode.cn/problems/symmetric-tree/) | [symmetric-tree.py](Python/symmetric-tree.py) | Easy |
