@@ -40,6 +40,7 @@
 | 2023/04/08 | [ *1125. 最小的必要团队 smallest-sufficient-team* ](https://leetcode.cn/problems/smallest-sufficient-team/) | [smallest-sufficient-team](Python/smallest-sufficient-team.py) | Hard |
 | 2023/04/09 | [ 2399. 检查相同字母间的距离 check-distances-between-same-letters ](https://leetcode.cn/problems/check-distances-between-same-letters/) | [check-distances-between-same-letters](Python/check-distances-between-same-letters.py) | Easy |
 | 2023/04/10 | [ 1019. 链表中的下一个更大节点 next-greater-node-in-linked-list ](https://leetcode.cn/problems/next-greater-node-in-linked-list/) | [next-greater-node-in-linked-list](Python/next-greater-node-in-linked-list.py) | Medium |
+| 2023/04/11 | [ 1041. 困于环中的机器人 robot-bounded-in-circle ](https://leetcode.cn/problems/robot-bounded-in-circle/) | [robot-bounded-in-circle](Python/robot-bounded-in-circle.py) | Medium |
 
 ## 学习计划
 
