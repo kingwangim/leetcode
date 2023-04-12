@@ -76,3 +76,7 @@
 | 树 | [*102. 二叉树的层序遍历 binary-tree-level-order-traversal*](https://leetcode.cn/problems/binary-tree-level-order-traversal/) | [binary-tree-level-order-traversal.py](Python/binary-tree-level-order-traversal.py) | Medium |
 | 树 | [*104. 二叉树的最大深度 maximum-depth-of-binary-tree*](https://leetcode.cn/problems/maximum-depth-of-binary-tree/) | [maximum-depth-of-binary-tree.py](Python/maximum-depth-of-binary-tree.py) | Easy |
 | 树 | [*101. 对称二叉树 symmetric-tree*](https://leetcode.cn/problems/symmetric-tree/) | [symmetric-tree.py](Python/symmetric-tree.py) | Easy |
+| 树 | [226. 翻转二叉树 invert-binary-tree](https://leetcode.cn/problems/invert-binary-tree/) | [invert-binary-tree.py](Python/invert-binary-tree.py) | Easy |
+| 树 | [112. 路径总和 path-sum](https://leetcode.cn/problems/path-sum/) | [path-sum.py](Python/path-sum.py) | Easy |
+| 树 | [700. 二叉搜索树中的搜索 search-in-a-binary-search-tree](https://leetcode.cn/problems/search-in-a-binary-search-tree/) | [search-in-a-binary-search-tree.py](Python/search-in-a-binary-search-tree.py) | Easy |
+| 树 | [701. 二叉搜索树中的插入操作 insert-into-a-binary-search-tree](https://leetcode.cn/problems/insert-into-a-binary-search-tree/) | [insert-into-a-binary-search-tree.py](Python/insert-into-a-binary-search-tree.py) | Easy |
