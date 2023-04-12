@@ -41,6 +41,8 @@
 | 2023/04/09 | [ 2399. 检查相同字母间的距离 check-distances-between-same-letters ](https://leetcode.cn/problems/check-distances-between-same-letters/) | [check-distances-between-same-letters](Python/check-distances-between-same-letters.py) | Easy |
 | 2023/04/10 | [ 1019. 链表中的下一个更大节点 next-greater-node-in-linked-list ](https://leetcode.cn/problems/next-greater-node-in-linked-list/) | [next-greater-node-in-linked-list](Python/next-greater-node-in-linked-list.py) | Medium |
 | 2023/04/11 | [ 1041. 困于环中的机器人 robot-bounded-in-circle ](https://leetcode.cn/problems/robot-bounded-in-circle/) | [robot-bounded-in-circle](Python/robot-bounded-in-circle.py) | Medium |
+| 2023/04/12 | [ 1147. 段式回文 longest-chunked-palindrome-decomposition ](https://leetcode.cn/problems/longest-chunked-palindrome-decomposition/) | [longest-chunked-palindrome-decomposition](Python/longest-chunked-palindrome-decomposition.py) | Hard |
+
 
 ## 学习计划
 
