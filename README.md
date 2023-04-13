@@ -42,6 +42,7 @@
 | 2023/04/10 | [ 1019. 链表中的下一个更大节点 next-greater-node-in-linked-list ](https://leetcode.cn/problems/next-greater-node-in-linked-list/) | [next-greater-node-in-linked-list](Python/next-greater-node-in-linked-list.py) | Medium |
 | 2023/04/11 | [ 1041. 困于环中的机器人 robot-bounded-in-circle ](https://leetcode.cn/problems/robot-bounded-in-circle/) | [robot-bounded-in-circle](Python/robot-bounded-in-circle.py) | Medium |
 | 2023/04/12 | [ 1147. 段式回文 longest-chunked-palindrome-decomposition ](https://leetcode.cn/problems/longest-chunked-palindrome-decomposition/) | [longest-chunked-palindrome-decomposition](Python/longest-chunked-palindrome-decomposition.py) | Hard |
+| 2023/04/13 | [ 2404. 出现最频繁的偶数元素 most-frequent-even-element ](https://leetcode.cn/problems/most-frequent-even-element/) | [most-frequent-even-element](Python/most-frequent-even-element.py) | Easy |
 
 
 ## 学习计划
