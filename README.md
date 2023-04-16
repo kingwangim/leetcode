@@ -91,4 +91,4 @@
 
 | 类型 | 题目 | 题解 | 难度 |
 |  :--:  | :--: | :--: | :--: |
-| 数组 | [删除排序数组中的重复项](https://leetcode.cn/leetbook/read/top-interview-questions-easy/remove-duplicates-from-sorted-array/) | [remove-duplicates-from-sorted-array.py](Python/remove-duplicates-from-sorted-array.py) | Easy |
+| 数组 | [删除排序数组中的重复项](https://leetcode.cn/problems/remove-duplicates-from-sorted-array/) | [remove-duplicates-from-sorted-array.py](Python/remove-duplicates-from-sorted-array.py) |  |
