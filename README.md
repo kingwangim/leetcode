@@ -44,6 +44,7 @@
 | 2023/04/12 | [ 1147. 段式回文 longest-chunked-palindrome-decomposition ](https://leetcode.cn/problems/longest-chunked-palindrome-decomposition/) | [longest-chunked-palindrome-decomposition](Python/longest-chunked-palindrome-decomposition.py) | Hard |
 | 2023/04/13 | [ 2404. 出现最频繁的偶数元素 most-frequent-even-element ](https://leetcode.cn/problems/most-frequent-even-element/) | [most-frequent-even-element](Python/most-frequent-even-element.py) | Easy |
 | 2023/04/14 | [ 1023. 驼峰式匹配 camelcase-matching ](https://leetcode.cn/problems/camelcase-matching/) | [camelcase-matching](Python/camelcase-matching.py) | Medium |
+| 2023/04/16 | [ 1157. 子数组中占绝大多数的元素 online-majority-element-in-subarray ](https://leetcode.cn/problems/online-majority-element-in-subarray/) | [online-majority-element-in-subarray](Python/online-majority-element-in-subarray.py) | Hard |
 
 
 ## 学习计划
@@ -85,3 +86,9 @@
 | 树 | [98. 验证二叉搜索树 validate-binary-search-tree](https://leetcode.cn/problems/validate-binary-search-tree/) | [validate-binary-search-tree.py](Python/validate-binary-search-tree.py) | Medium |
 | 树 | [653. 两数之和 IV - 输入二叉搜索 two-sum-iv-input-is-a-bst](https://leetcode.cn/problems/two-sum-iv-input-is-a-bst/) | [two-sum-iv-input-is-a-bst.py](Python/two-sum-iv-input-is-a-bst.py) | Easy |
 | 树 | [235. 二叉搜索树的最近公共祖先 lowest-common-ancestor-of-a-binary-search-tree](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [lowest-common-ancestor-of-a-binary-search-tree.py](Python/lowest-common-ancestor-of-a-binary-search-tree.py) | Medium |
+
+### 初级算法
+
+| 类型 | 题目 | 题解 | 难度 |
+|  :--:  | :--: | :--: | :--: |
+| 数组 | [删除排序数组中的重复项](https://leetcode.cn/leetbook/read/top-interview-questions-easy/remove-duplicates-from-sorted-array/) | [remove-duplicates-from-sorted-array.py](Python/remove-duplicates-from-sorted-array.py) | Easy |
