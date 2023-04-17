@@ -45,6 +45,7 @@
 | 2023/04/13 | [ 2404. 出现最频繁的偶数元素 most-frequent-even-element ](https://leetcode.cn/problems/most-frequent-even-element/) | [most-frequent-even-element](Python/most-frequent-even-element.py) | Easy |
 | 2023/04/14 | [ 1023. 驼峰式匹配 camelcase-matching ](https://leetcode.cn/problems/camelcase-matching/) | [camelcase-matching](Python/camelcase-matching.py) | Medium |
 | 2023/04/16 | [ 1157. 子数组中占绝大多数的元素 online-majority-element-in-subarray ](https://leetcode.cn/problems/online-majority-element-in-subarray/) | [online-majority-element-in-subarray](Python/online-majority-element-in-subarray.py) | Hard |
+| 2023/04/17 | [ 2409. 统计共同度过的日子数 count-days-spent-together ](https://leetcode.cn/problems/count-days-spent-together/) | [count-days-spent-together](Python/count-days-spent-together.py) | Easy |
 
 
 ## 学习计划
