@@ -46,6 +46,8 @@
 | 2023/04/14 | [ 1023. 驼峰式匹配 camelcase-matching ](https://leetcode.cn/problems/camelcase-matching/) | [camelcase-matching](Python/camelcase-matching.py) | Medium |
 | 2023/04/16 | [ 1157. 子数组中占绝大多数的元素 online-majority-element-in-subarray ](https://leetcode.cn/problems/online-majority-element-in-subarray/) | [online-majority-element-in-subarray](Python/online-majority-element-in-subarray.py) | Hard |
 | 2023/04/17 | [ 2409. 统计共同度过的日子数 count-days-spent-together ](https://leetcode.cn/problems/count-days-spent-together/) | [count-days-spent-together](Python/count-days-spent-together.py) | Easy |
+| 2023/04/18 | [ *1026. 节点与其祖先之间的最大差值 maximum-difference-between-node-and-ancestor* ](https://leetcode.cn/problems/maximum-difference-between-node-and-ancestor/) | [maximum-difference-between-node-and-ancestor](Python/maximum-difference-between-node-and-ancestor.py) | Medium |
+| 2023/04/20 | [ *1187. 使数组严格递增  make-array-strictly-increasing* ](https://leetcode.cn/problems/make-array-strictly-increasing/) | [make-array-strictly-increasing](Python/make-array-strictly-increasing.py) | Hard |
 
 
 ## 学习计划
