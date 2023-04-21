@@ -48,6 +48,7 @@
 | 2023/04/17 | [ 2409. 统计共同度过的日子数 count-days-spent-together ](https://leetcode.cn/problems/count-days-spent-together/) | [count-days-spent-together](Python/count-days-spent-together.py) | Easy |
 | 2023/04/18 | [ *1026. 节点与其祖先之间的最大差值 maximum-difference-between-node-and-ancestor* ](https://leetcode.cn/problems/maximum-difference-between-node-and-ancestor/) | [maximum-difference-between-node-and-ancestor](Python/maximum-difference-between-node-and-ancestor.py) | Medium |
 | 2023/04/20 | [ *1187. 使数组严格递增  make-array-strictly-increasing* ](https://leetcode.cn/problems/make-array-strictly-increasing/) | [make-array-strictly-increasing](Python/make-array-strictly-increasing.py) | Hard |
+| 2023/04/21 | [ 2413. 最小偶倍数 smallest-even-multiple ](https://leetcode.cn/problems/smallest-even-multiple/) | [smallest-even-multiple](Python/smallest-even-multiple.py) | Easy |
 
 
 ## 学习计划
