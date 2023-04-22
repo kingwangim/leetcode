@@ -49,6 +49,7 @@
 | 2023/04/18 | [ *1026. 节点与其祖先之间的最大差值 maximum-difference-between-node-and-ancestor* ](https://leetcode.cn/problems/maximum-difference-between-node-and-ancestor/) | [maximum-difference-between-node-and-ancestor](Python/maximum-difference-between-node-and-ancestor.py) | Medium |
 | 2023/04/20 | [ *1187. 使数组严格递增  make-array-strictly-increasing* ](https://leetcode.cn/problems/make-array-strictly-increasing/) | [make-array-strictly-increasing](Python/make-array-strictly-increasing.py) | Hard |
 | 2023/04/21 | [ 2413. 最小偶倍数 smallest-even-multiple ](https://leetcode.cn/problems/smallest-even-multiple/) | [smallest-even-multiple](Python/smallest-even-multiple.py) | Easy |
+| 2023/04/22 | [ 1027. 最长等差数列 longest-arithmetic-subsequence ](https://leetcode.cn/problems/longest-arithmetic-subsequence/) | [longest-arithmetic-subsequence](Python/longest-arithmetic-subsequence.py) | Medium |
 
 
 ## 学习计划
