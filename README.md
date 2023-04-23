@@ -50,6 +50,7 @@
 | 2023/04/20 | [ *1187. 使数组严格递增  make-array-strictly-increasing* ](https://leetcode.cn/problems/make-array-strictly-increasing/) | [make-array-strictly-increasing](Python/make-array-strictly-increasing.py) | Hard |
 | 2023/04/21 | [ 2413. 最小偶倍数 smallest-even-multiple ](https://leetcode.cn/problems/smallest-even-multiple/) | [smallest-even-multiple](Python/smallest-even-multiple.py) | Easy |
 | 2023/04/22 | [ 1027. 最长等差数列 longest-arithmetic-subsequence ](https://leetcode.cn/problems/longest-arithmetic-subsequence/) | [longest-arithmetic-subsequence](Python/longest-arithmetic-subsequence.py) | Medium |
+| 2023/04/23 | [ *1105. 填充书架 filling-bookcase-shelves* ](https://leetcode.cn/problems/filling-bookcase-shelves/) | [filling-bookcase-shelves](Python/filling-bookcase-shelves.py) | Medium |
 
 
 ## 学习计划
