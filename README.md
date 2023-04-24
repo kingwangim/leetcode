@@ -51,6 +51,8 @@
 | 2023/04/21 | [ 2413. 最小偶倍数 smallest-even-multiple ](https://leetcode.cn/problems/smallest-even-multiple/) | [smallest-even-multiple](Python/smallest-even-multiple.py) | Easy |
 | 2023/04/22 | [ 1027. 最长等差数列 longest-arithmetic-subsequence ](https://leetcode.cn/problems/longest-arithmetic-subsequence/) | [longest-arithmetic-subsequence](Python/longest-arithmetic-subsequence.py) | Medium |
 | 2023/04/23 | [ *1105. 填充书架 filling-bookcase-shelves* ](https://leetcode.cn/problems/filling-bookcase-shelves/) | [filling-bookcase-shelves](Python/filling-bookcase-shelves.py) | Medium |
+| 2023/04/24 | [ 1163. 按字典序排在最后的子串
+last-substring-in-lexicographical-order ](https://leetcode.cn/problems/last-substring-in-lexicographical-order/) | [last-substring-in-lexicographical-order](Python/last-substring-in-lexicographical-order.py) | Hard |
 
 
 ## 学习计划
