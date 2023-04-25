@@ -102,3 +102,5 @@
 | 数组 | [删除排序数组中的重复项](https://leetcode.cn/problems/remove-duplicates-from-sorted-array/) | [remove-duplicates-from-sorted-array.py](Python/remove-duplicates-from-sorted-array.py) | Easy |
 | 数组 | [122. 买卖股票的最佳时机 II](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-ii/) | [best-time-to-buy-and-sell-stock-ii.py](Python/best-time-to-buy-and-sell-stock-ii.py) | Medium |
 | 数组 | [189. 轮转数组](https://leetcode.cn/problems/rotate-array/) | [rotate-array.py](Python/rotate-array.py) | Medium |
+| 数组 | [217. 存在重复元素](https://leetcode.cn/problems/contains-duplicate/) | [contains-duplicate.py](Python/contains-duplicate.py) | Easy |
+| 数组 | [136. 只出现一次的数字](https://leetcode.cn/problems/single-number/) | [single-number.py](Python/single-number.py) | Easy |
