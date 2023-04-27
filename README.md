@@ -54,6 +54,7 @@
 | 2023/04/24 | [ 1163. 按字典序排在最后的子串last-substring-in-lexicographical-order ](https://leetcode.cn/problems/last-substring-in-lexicographical-order/) | [last-substring-in-lexicographical-order](Python/last-substring-in-lexicographical-order.py) | Hard |
 | 2023/04/25 | [ 2418. 按身高排序 sort-the-people ](https://leetcode.cn/problems/sort-the-people/) | [sort-the-people](Python/sort-the-people.py) | Easy |
 | 2023/04/26 | [ 1031. 两个非重叠子数组的最大和 maximum-sum-of-two-non-overlapping-subarrays ](https://leetcode.cn/problems/maximum-sum-of-two-non-overlapping-subarrays/) | [maximum-sum-of-two-non-overlapping-subarrays](Python/maximum-sum-of-two-non-overlapping-subarrays.py) | Medium |
+| 2023/04/27 | [ 1048. 最长字符串链 longest-string-chain ](https://leetcode.cn/problems/longest-string-chain/) | [longest-string-chain](Python/longest-string-chain.py) | Medium |
 
 ## 学习计划
 
