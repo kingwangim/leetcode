@@ -55,6 +55,7 @@
 | 2023/04/25 | [ 2418. 按身高排序 sort-the-people ](https://leetcode.cn/problems/sort-the-people/) | [sort-the-people](Python/sort-the-people.py) | Easy |
 | 2023/04/26 | [ 1031. 两个非重叠子数组的最大和 maximum-sum-of-two-non-overlapping-subarrays ](https://leetcode.cn/problems/maximum-sum-of-two-non-overlapping-subarrays/) | [maximum-sum-of-two-non-overlapping-subarrays](Python/maximum-sum-of-two-non-overlapping-subarrays.py) | Medium |
 | 2023/04/27 | [ 1048. 最长字符串链 longest-string-chain ](https://leetcode.cn/problems/longest-string-chain/) | [longest-string-chain](Python/longest-string-chain.py) | Medium |
+| 2023/04/28 | [ 1172. 餐盘栈 dinner-plate-stacks ](https://leetcode.cn/problems/dinner-plate-stacks/) | [dinner-plate-stacks](Python/dinner-plate-stacks.py) | Hard |
 
 ## 学习计划
 
