@@ -56,6 +56,7 @@
 | 2023/04/26 | [ 1031. 两个非重叠子数组的最大和 maximum-sum-of-two-non-overlapping-subarrays ](https://leetcode.cn/problems/maximum-sum-of-two-non-overlapping-subarrays/) | [maximum-sum-of-two-non-overlapping-subarrays](Python/maximum-sum-of-two-non-overlapping-subarrays.py) | Medium |
 | 2023/04/27 | [ 1048. 最长字符串链 longest-string-chain ](https://leetcode.cn/problems/longest-string-chain/) | [longest-string-chain](Python/longest-string-chain.py) | Medium |
 | 2023/04/28 | [ 1172. 餐盘栈 dinner-plate-stacks ](https://leetcode.cn/problems/dinner-plate-stacks/) | [dinner-plate-stacks](Python/dinner-plate-stacks.py) | Hard |
+| 2023/04/29 | [ 2423. 删除字符使频率相同 remove-letter-to-equalize-frequency ](https://leetcode.cn/problems/remove-letter-to-equalize-frequency/) | [remove-letter-to-equalize-frequency](Python/remove-letter-to-equalize-frequency.py) | Easy |
 
 ## 学习计划
 
