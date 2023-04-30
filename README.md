@@ -57,6 +57,7 @@
 | 2023/04/27 | [ 1048. 最长字符串链 longest-string-chain ](https://leetcode.cn/problems/longest-string-chain/) | [longest-string-chain](Python/longest-string-chain.py) | Medium |
 | 2023/04/28 | [ 1172. 餐盘栈 dinner-plate-stacks ](https://leetcode.cn/problems/dinner-plate-stacks/) | [dinner-plate-stacks](Python/dinner-plate-stacks.py) | Hard |
 | 2023/04/29 | [ 2423. 删除字符使频率相同 remove-letter-to-equalize-frequency ](https://leetcode.cn/problems/remove-letter-to-equalize-frequency/) | [remove-letter-to-equalize-frequency](Python/remove-letter-to-equalize-frequency.py) | Easy |
+| 2023/04/30 | [ 1033. 移动石子直到连续 moving-stones-until-consecutive ](https://leetcode.cn/problems/moving-stones-until-consecutive/) | [moving-stones-until-consecutive](Python/moving-stones-until-consecutive.py) | Medium |
 
 ## 学习计划
 
