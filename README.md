@@ -59,6 +59,7 @@
 | 2023/04/29 | [ 2423. 删除字符使频率相同 remove-letter-to-equalize-frequency ](https://leetcode.cn/problems/remove-letter-to-equalize-frequency/) | [remove-letter-to-equalize-frequency](Python/remove-letter-to-equalize-frequency.py) | Easy |
 | 2023/04/30 | [ 1033. 移动石子直到连续 moving-stones-until-consecutive ](https://leetcode.cn/problems/moving-stones-until-consecutive/) | [moving-stones-until-consecutive](Python/moving-stones-until-consecutive.py) | Medium |
 | 2023/05/02 | [ 970. 强整数 powerful-integers ](https://leetcode.cn/problems/powerful-integers/) | [powerful-integers](Python/powerful-integers.py) | Medium |
+| 2023/05/03 | [ 1003. 检查替换后的词是否有效 check-if-word-is-valid-after-substitutions ](https://leetcode.cn/problems/check-if-word-is-valid-after-substitutions/) | [check-if-word-is-valid-after-substitutions](Python/check-if-word-is-valid-after-substitutions.py) | Medium |
 
 ## 学习计划
 
