@@ -60,6 +60,7 @@
 | 2023/04/30 | [ 1033. 移动石子直到连续 moving-stones-until-consecutive ](https://leetcode.cn/problems/moving-stones-until-consecutive/) | [moving-stones-until-consecutive](Python/moving-stones-until-consecutive.py) | Medium |
 | 2023/05/02 | [ 970. 强整数 powerful-integers ](https://leetcode.cn/problems/powerful-integers/) | [powerful-integers](Python/powerful-integers.py) | Medium |
 | 2023/05/03 | [ 1003. 检查替换后的词是否有效 check-if-word-is-valid-after-substitutions ](https://leetcode.cn/problems/check-if-word-is-valid-after-substitutions/) | [check-if-word-is-valid-after-substitutions](Python/check-if-word-is-valid-after-substitutions.py) | Medium |
+| 2023/05/04 | [ 2106. 摘水果 maximum-fruits-harvested-after-at-most-k-steps ](https://leetcode.cn/problems/maximum-fruits-harvested-after-at-most-k-steps/) | [maximum-fruits-harvested-after-at-most-k-steps](Python/maximum-fruits-harvested-after-at-most-k-steps.py) | Hard |
 
 ## 学习计划
 
