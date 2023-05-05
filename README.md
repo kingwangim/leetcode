@@ -61,6 +61,7 @@
 | 2023/05/02 | [ 970. 强整数 powerful-integers ](https://leetcode.cn/problems/powerful-integers/) | [powerful-integers](Python/powerful-integers.py) | Medium |
 | 2023/05/03 | [ 1003. 检查替换后的词是否有效 check-if-word-is-valid-after-substitutions ](https://leetcode.cn/problems/check-if-word-is-valid-after-substitutions/) | [check-if-word-is-valid-after-substitutions](Python/check-if-word-is-valid-after-substitutions.py) | Medium |
 | 2023/05/04 | [ 2106. 摘水果 maximum-fruits-harvested-after-at-most-k-steps ](https://leetcode.cn/problems/maximum-fruits-harvested-after-at-most-k-steps/) | [maximum-fruits-harvested-after-at-most-k-steps](Python/maximum-fruits-harvested-after-at-most-k-steps.py) | Hard |
+| 2023/05/05 | [ 2432. 处理用时最长的那个任务的员工 the-employee-that-worked-on-the-longest-task ](https://leetcode.cn/problems/the-employee-that-worked-on-the-longest-task/) | [the-employee-that-worked-on-the-longest-task](Python/the-employee-that-worked-on-the-longest-task.py) | Easy |
 
 ## 学习计划
 
