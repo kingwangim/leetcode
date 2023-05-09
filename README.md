@@ -62,6 +62,7 @@
 | 2023/05/03 | [ 1003. 检查替换后的词是否有效 check-if-word-is-valid-after-substitutions ](https://leetcode.cn/problems/check-if-word-is-valid-after-substitutions/) | [check-if-word-is-valid-after-substitutions](Python/check-if-word-is-valid-after-substitutions.py) | Medium |
 | 2023/05/04 | [ 2106. 摘水果 maximum-fruits-harvested-after-at-most-k-steps ](https://leetcode.cn/problems/maximum-fruits-harvested-after-at-most-k-steps/) | [maximum-fruits-harvested-after-at-most-k-steps](Python/maximum-fruits-harvested-after-at-most-k-steps.py) | Hard |
 | 2023/05/05 | [ 2432. 处理用时最长的那个任务的员工 the-employee-that-worked-on-the-longest-task ](https://leetcode.cn/problems/the-employee-that-worked-on-the-longest-task/) | [the-employee-that-worked-on-the-longest-task](Python/the-employee-that-worked-on-the-longest-task.py) | Easy |
+| 2023/05/09 | [ 2437. 有效时间的数目 number-of-valid-clock-times ](https://leetcode.cn/problems/number-of-valid-clock-times/) | [number-of-valid-clock-times](Python/number-of-valid-clock-times.py) | Easy |
 
 ## 学习计划
 
