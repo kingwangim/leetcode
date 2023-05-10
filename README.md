@@ -63,6 +63,7 @@
 | 2023/05/04 | [ 2106. 摘水果 maximum-fruits-harvested-after-at-most-k-steps ](https://leetcode.cn/problems/maximum-fruits-harvested-after-at-most-k-steps/) | [maximum-fruits-harvested-after-at-most-k-steps](Python/maximum-fruits-harvested-after-at-most-k-steps.py) | Hard |
 | 2023/05/05 | [ 2432. 处理用时最长的那个任务的员工 the-employee-that-worked-on-the-longest-task ](https://leetcode.cn/problems/the-employee-that-worked-on-the-longest-task/) | [the-employee-that-worked-on-the-longest-task](Python/the-employee-that-worked-on-the-longest-task.py) | Easy |
 | 2023/05/09 | [ 2437. 有效时间的数目 number-of-valid-clock-times ](https://leetcode.cn/problems/number-of-valid-clock-times/) | [number-of-valid-clock-times](Python/number-of-valid-clock-times.py) | Easy |
+| 2023/05/10 | [ 1015. 可被 K 整除的最小整数 smallest-integer-divisible-by-k ](https://leetcode.cn/problems/smallest-integer-divisible-by-k/) | [smallest-integer-divisible-by-k](Python/smallest-integer-divisible-by-k.py) | Medium |
 
 ## 学习计划
 
