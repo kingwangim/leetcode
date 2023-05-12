@@ -65,6 +65,7 @@
 | 2023/05/09 | [ 2437. 有效时间的数目 number-of-valid-clock-times ](https://leetcode.cn/problems/number-of-valid-clock-times/) | [number-of-valid-clock-times](Python/number-of-valid-clock-times.py) | Easy |
 | 2023/05/10 | [ 1015. 可被 K 整除的最小整数 smallest-integer-divisible-by-k ](https://leetcode.cn/problems/smallest-integer-divisible-by-k/) | [smallest-integer-divisible-by-k](Python/smallest-integer-divisible-by-k.py) | Medium |
 | 2023/05/11 | [ 1016. 子串能表示从 1 到 N 数字的二进制串 binary-string-with-substrings-representing-1-to-n ](https://leetcode.cn/problems/binary-string-with-substrings-representing-1-to-n/) | [binary-string-with-substrings-representing-1-to-n](Python/binary-string-with-substrings-representing-1-to-n.py) | Medium |
+| 2023/05/12 | [ 1330. 翻转子数组得到最大的数组值 reverse-subarray-to-maximize-array-value ](https://leetcode.cn/problems/reverse-subarray-to-maximize-array-value/) | [reverse-subarray-to-maximize-array-value](Python/reverse-subarray-to-maximize-array-value.py) | Hard |
 
 ## 学习计划
 
