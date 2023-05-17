@@ -69,6 +69,7 @@
 | 2023/05/13 | [ 2441. 与对应负数同时存在的最大正整数 largest-positive-integer-that-exists-with-its-negative ](https://leetcode.cn/problems/largest-positive-integer-that-exists-with-its-negative/) | [largest-positive-integer-that-exists-with-its-negative](Python/largest-positive-integer-that-exists-with-its-negative.py) | Easy |
 | 2023/05/14 | [ 1054. 距离相等的条形码 distant-barcodes ](https://leetcode.cn/problems/distant-barcodes/) | [distant-barcodes](Python/distant-barcodes.py) | Medium |
 | 2023/05/15 | [ *1072. 按列翻转得到最大值等行数 flip-columns-for-maximum-number-of-equal-rows* ](https://leetcode.cn/problems/flip-columns-for-maximum-number-of-equal-rows/) | [flip-columns-for-maximum-number-of-equal-rows](Python/flip-columns-for-maximum-number-of-equal-rows.py) | Medium |
+| 2023/05/17 | [ 2446. 判断两个事件是否存在冲突 determine-if-two-events-have-conflict ](https://leetcode.cn/problems/determine-if-two-events-have-conflict/) | [determine-if-two-events-have-conflict](Python/determine-if-two-events-have-conflict.py) | Easy |
 
 ## 学习计划
 
