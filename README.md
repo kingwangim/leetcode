@@ -71,6 +71,10 @@
 | 2023/05/15 | [ *1072. 按列翻转得到最大值等行数 flip-columns-for-maximum-number-of-equal-rows* ](https://leetcode.cn/problems/flip-columns-for-maximum-number-of-equal-rows/) | [flip-columns-for-maximum-number-of-equal-rows](Python/flip-columns-for-maximum-number-of-equal-rows.py) | Medium |
 | 2023/05/17 | [ 2446. 判断两个事件是否存在冲突 determine-if-two-events-have-conflict ](https://leetcode.cn/problems/determine-if-two-events-have-conflict/) | [determine-if-two-events-have-conflict](Python/determine-if-two-events-have-conflict.py) | Easy |
 | 2023/05/18 | [ 1073. 负二进制数相加 adding-two-negabinary-numbers ](https://leetcode.cn/problems/adding-two-negabinary-numbers/) | [adding-two-negabinary-numbers](Python/adding-two-negabinary-numbers.py) | Medium |
+| 2023/05/19 | [ 1073. 负二进制数相加 adding-two-negabinary-numbers ](https://leetcode.cn/problems/adding-two-negabinary-numbers/) | [adding-two-negabinary-numbers](Python/adding-two-negabinary-numbers.py) | Medium |
+| 2023/05/29| [ 2455. 可被三整除的偶数的平均值 average-value-of-even-numbers-that-are-divisible-by-three ](https://leetcode.cn/problems/average-value-of-even-numbers-that-are-divisible-by-three/) | [average-value-of-even-numbers-that-are-divisible-by-three](Python/average-value-of-even-numbers-that-are-divisible-by-three.py) | Easy |
+
+
 
 ## 学习计划
 
