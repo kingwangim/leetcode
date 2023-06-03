@@ -76,6 +76,7 @@
 | 2023/05/30| [ 1110. 删点成林 delete-nodes-and-return-forest ](https://leetcode.cn/problems/delete-nodes-and-return-forest/) | [delete-nodes-and-return-forest](Python/delete-nodes-and-return-forest.py) | Medium |
 | 2023/05/31| [ 1130. 叶值的最小代价生成树 minimum-cost-tree-from-leaf-values ](https://leetcode.cn/problems/minimum-cost-tree-from-leaf-values/) | [minimum-cost-tree-from-leaf-values](Python/minimum-cost-tree-from-leaf-values.py) | Medium |
 | 2023/06/01| [ 2517. 礼盒的最大甜蜜度 maximum-tastiness-of-candy-basket ](https://leetcode.cn/problems/maximum-tastiness-of-candy-basket/) | [maximum-tastiness-of-candy-basket](Python/maximum-tastiness-of-candy-basket.py) | Medium |
+| 2023/06/03 | [ 1156. 单字符重复子串的最大长度 swap-for-longest-repeated-character-substring ](https://leetcode.cn/problems/swap-for-longest-repeated-character-substring/) | [swap-for-longest-repeated-character-substring](Python/swap-for-longest-repeated-character-substring.py) | Medium |
 
 
 
