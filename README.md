@@ -78,6 +78,8 @@
 | 2023/06/01| [ 2517. 礼盒的最大甜蜜度 maximum-tastiness-of-candy-basket ](https://leetcode.cn/problems/maximum-tastiness-of-candy-basket/) | [maximum-tastiness-of-candy-basket](Python/maximum-tastiness-of-candy-basket.py) | Medium |
 | 2023/06/03 | [ 1156. 单字符重复子串的最大长度 swap-for-longest-repeated-character-substring ](https://leetcode.cn/problems/swap-for-longest-repeated-character-substring/) | [swap-for-longest-repeated-character-substring](Python/swap-for-longest-repeated-character-substring.py) | Medium |
 | 2023/06/04 | [ 2465. 不同的平均值数目 number-of-distinct-averages ](https://leetcode.cn/problems/number-of-distinct-averages/) | [number-of-distinct-averages](Python/number-of-distinct-averages.py) | Easy |
+| 2023/06/05 | [ 2460. 对数组执行操作 apply-operations-to-an-array ](https://leetcode.cn/problems/apply-operations-to-an-array/) | [apply-operations-to-an-array](Python/apply-operations-to-an-array.py) | Easy |
+| 2023/06/06 | [ 2352. 相等行列对 equal-row-and-column-pairs ](https://leetcode.cn/problems/equal-row-and-column-pairs/) | [equal-row-and-column-pairs](Python/equal-row-and-column-pairs.py) | Medium |
 
 ## 学习计划
 
