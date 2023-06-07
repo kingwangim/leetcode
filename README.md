@@ -80,6 +80,7 @@
 | 2023/06/04 | [ 2465. 不同的平均值数目 number-of-distinct-averages ](https://leetcode.cn/problems/number-of-distinct-averages/) | [number-of-distinct-averages](Python/number-of-distinct-averages.py) | Easy |
 | 2023/06/05 | [ 2460. 对数组执行操作 apply-operations-to-an-array ](https://leetcode.cn/problems/apply-operations-to-an-array/) | [apply-operations-to-an-array](Python/apply-operations-to-an-array.py) | Easy |
 | 2023/06/06 | [ 2352. 相等行列对 equal-row-and-column-pairs ](https://leetcode.cn/problems/equal-row-and-column-pairs/) | [equal-row-and-column-pairs](Python/equal-row-and-column-pairs.py) | Medium |
+| 2023/06/07 | [ 2611. 老鼠和奶酪 mice-and-cheese ](https://leetcode.cn/problems/mice-and-cheese/) | [mice-and-cheese](Python/mice-and-cheese.py) | Medium |
 
 ## 学习计划
 

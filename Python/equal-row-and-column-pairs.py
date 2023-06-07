@@ -9,5 +9,6 @@ class Solution:
                 temp.append(rows[j][i])
             cols.append(temp)
         for col in cols:
-            ans += len([index for (index, value) in enumerate(rows) if value == col])
+            ans += len([index for (index, value)
+                       in enumerate(rows) if value == col])
         return ans
