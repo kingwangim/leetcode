@@ -81,6 +81,8 @@
 | 2023/06/05 | [ 2460. 对数组执行操作 apply-operations-to-an-array ](https://leetcode.cn/problems/apply-operations-to-an-array/) | [apply-operations-to-an-array](Python/apply-operations-to-an-array.py) | Easy |
 | 2023/06/06 | [ 2352. 相等行列对 equal-row-and-column-pairs ](https://leetcode.cn/problems/equal-row-and-column-pairs/) | [equal-row-and-column-pairs](Python/equal-row-and-column-pairs.py) | Medium |
 | 2023/06/07 | [ 2611. 老鼠和奶酪 mice-and-cheese ](https://leetcode.cn/problems/mice-and-cheese/) | [mice-and-cheese](Python/mice-and-cheese.py) | Medium |
+| 2023/06/10 | [ 1170. 比较字符串最小字母出现频次
+ compare-strings-by-frequency-of-the-smallest-character ](https://leetcode.cn/problems/compare-strings-by-frequency-of-the-smallest-character/) | [compare-strings-by-frequency-of-the-smallest-character](Python/compare-strings-by-frequency-of-the-smallest-character.py) | Medium |
 
 ## 学习计划
 
