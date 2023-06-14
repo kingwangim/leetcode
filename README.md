@@ -83,6 +83,9 @@
 | 2023/06/07 | [ 2611. 老鼠和奶酪 mice-and-cheese ](https://leetcode.cn/problems/mice-and-cheese/) | [mice-and-cheese](Python/mice-and-cheese.py) | Medium |
 | 2023/06/10 | [ 1170. 比较字符串最小字母出现频次
  compare-strings-by-frequency-of-the-smallest-character ](https://leetcode.cn/problems/compare-strings-by-frequency-of-the-smallest-character/) | [compare-strings-by-frequency-of-the-smallest-character](Python/compare-strings-by-frequency-of-the-smallest-character.py) | Medium |
+ | 2023/06/13 | [ 2475. 数组中不等三元组的数目 number-of-unequal-triplets-in-array ](https://leetcode.cn/problems/number-of-unequal-triplets-in-array/) | [number-of-unequal-triplets-in-array](Python/number-of-unequal-triplets-in-array.py) | Easy |
+ | 2023/06/14 | [ 1375. 二进制字符串前缀一致的次数
+ number-of-times-binary-string-is-prefix-aligned ](https://leetcode.cn/problems/number-of-times-binary-string-is-prefix-aligned/) | [number-of-times-binary-string-is-prefix-aligned](Python/number-of-times-binary-string-is-prefix-aligned.py) | Medium |
 
 ## 学习计划
 
