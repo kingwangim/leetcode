@@ -86,6 +86,7 @@
  | 2023/06/13 | [ 2475. 数组中不等三元组的数目 number-of-unequal-triplets-in-array ](https://leetcode.cn/problems/number-of-unequal-triplets-in-array/) | [number-of-unequal-triplets-in-array](Python/number-of-unequal-triplets-in-array.py) | Easy |
  | 2023/06/14 | [ 1375. 二进制字符串前缀一致的次数 number-of-times-binary-string-is-prefix-aligned ](https://leetcode.cn/problems/number-of-times-binary-string-is-prefix-aligned/) | [number-of-times-binary-string-is-prefix-aligned](Python/number-of-times-binary-string-is-prefix-aligned.py) | Medium |
 | 2023/06/23 | [ 2496. 数组中字符串的最大值 maximum-value-of-a-string-in-an-array ](https://leetcode.cn/problems/maximum-value-of-a-string-in-an-array/) | [maximum-value-of-a-string-in-an-array](Python/maximum-value-of-a-string-in-an-array.py) | Easy |
+| 2023/06/26 | [ 2485. 找出中枢整数 find-the-pivot-integer ](https://leetcode.cn/problems/find-the-pivot-integer/) | [find-the-pivot-integer](Python/find-the-pivot-integer.py) | Easy |
 
 
 ## 学习计划
