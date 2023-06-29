@@ -87,6 +87,8 @@
  | 2023/06/14 | [ 1375. 二进制字符串前缀一致的次数 number-of-times-binary-string-is-prefix-aligned ](https://leetcode.cn/problems/number-of-times-binary-string-is-prefix-aligned/) | [number-of-times-binary-string-is-prefix-aligned](Python/number-of-times-binary-string-is-prefix-aligned.py) | Medium |
 | 2023/06/23 | [ 2496. 数组中字符串的最大值 maximum-value-of-a-string-in-an-array ](https://leetcode.cn/problems/maximum-value-of-a-string-in-an-array/) | [maximum-value-of-a-string-in-an-array](Python/maximum-value-of-a-string-in-an-array.py) | Easy |
 | 2023/06/26 | [ 2485. 找出中枢整数 find-the-pivot-integer ](https://leetcode.cn/problems/find-the-pivot-integer/) | [find-the-pivot-integer](Python/find-the-pivot-integer.py) | Easy |
+| 2023/06/29 | [ 1253. 重构 2 行二进制矩阵 reconstruct-a-2-row-binary-matrix](https://leetcode.cn/problems/reconstruct-a-2-row-binary-matrix/) | [reconstruct-a-2-row-binary-matrix](Python/reconstruct-a-2-row-binary-matrix.py) | Mediu |
+
 
 
 ## 学习计划
