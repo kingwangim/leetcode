@@ -89,7 +89,7 @@
 | 2023/06/26 | [ 2485. 找出中枢整数 find-the-pivot-integer ](https://leetcode.cn/problems/find-the-pivot-integer/) | [find-the-pivot-integer](Python/find-the-pivot-integer.py) | Easy |
 | 2023/06/29 | [ 1253. 重构 2 行二进制矩阵 reconstruct-a-2-row-binary-matrix](https://leetcode.cn/problems/reconstruct-a-2-row-binary-matrix/) | [reconstruct-a-2-row-binary-matrix](Python/reconstruct-a-2-row-binary-matrix.py) | Mediu |
 | 2023/06/30 | [ 2490. 回环句 circular-sentence](https://leetcode.cn/problems/circular-sentence/) | [circular-sentence](Python/circular-sentence.py) | Easy |
-
+| 2023/07/01 | [ 1. 两数之和 two-sum](https://leetcode.cn/problems/two-sum/) | [two-sum](Python/two-sumI.py) | Easy |
 
 
 ## 学习计划
