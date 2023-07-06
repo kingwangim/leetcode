@@ -91,6 +91,8 @@
 | 2023/06/30 | [ 2490. 回环句 circular-sentence](https://leetcode.cn/problems/circular-sentence/) | [circular-sentence](Python/circular-sentence.py) | Easy |
 | 2023/07/01 | [ 1. 两数之和 two-sum](https://leetcode.cn/problems/two-sum/) | [two-sum](Python/two-sumI.py) | Easy |
 | 2023/07/03 | [ 445. 两数相加 II add-two-numbers-ii](https://leetcode.cn/problems/add-two-numbers-ii/) | [add-two-numbers-ii](Python/add-two-numbers-ii.py) | Medium |
+| 2023/07/04 | [ 2679. 矩阵中的和 sum-in-a-matrix](https://leetcode.cn/problems/sum-in-a-matrix/) | [sum-in-a-matrix](Python/sum-in-a-matrix.py) | Medium |
+| 2023/07/06 | [ 2178. 拆分成最多数目的正偶数之和 maximum-split-of-positive-even-integers](https://leetcode.cn/problems/maximum-split-of-positive-even-integers/) | [maximum-split-of-positive-even-integers](Python/maximum-split-of-positive-even-integers.py) | Medium |
 
 ## 学习计划
 
