@@ -93,6 +93,7 @@
 | 2023/07/03 | [ 445. 两数相加 II add-two-numbers-ii](https://leetcode.cn/problems/add-two-numbers-ii/) | [add-two-numbers-ii](Python/add-two-numbers-ii.py) | Medium |
 | 2023/07/04 | [ 2679. 矩阵中的和 sum-in-a-matrix](https://leetcode.cn/problems/sum-in-a-matrix/) | [sum-in-a-matrix](Python/sum-in-a-matrix.py) | Medium |
 | 2023/07/06 | [ 2178. 拆分成最多数目的正偶数之和 maximum-split-of-positive-even-integers](https://leetcode.cn/problems/maximum-split-of-positive-even-integers/) | [maximum-split-of-positive-even-integers](Python/maximum-split-of-positive-even-integers.py) | Medium |
+| 2023/07/08 | [ 167. 两数之和 II - 输入有序数组 two-sum-ii-input-array-is-sorted](https://leetcode.cn/problems/two-sum-ii-input-array-is-sorted/) | [ two-sum-ii-input-array-is-sorted ](Python/two-sum-ii-input-array-is-sorted.py) | Medium |
 
 ## 学习计划
 
