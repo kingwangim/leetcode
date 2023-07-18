@@ -96,6 +96,8 @@
 | 2023/07/08 | [ 167. 两数之和 II - 输入有序数组 two-sum-ii-input-array-is-sorted](https://leetcode.cn/problems/two-sum-ii-input-array-is-sorted/) | [ two-sum-ii-input-array-is-sorted ](Python/two-sum-ii-input-array-is-sorted.py) | Medium |
 | 2023/07/09 | [ 15. 三数之和 3sum](https://leetcode.cn/problems/3sum/) | [ 3sum ](Python/3sum.py) | Medium |
 | 2023/07/17 | [ 415. 字符串相加 add-strings ](https://leetcode.cn/problems/add-strings/) | [ add-strings ](Python/add-strings.py) | Easy |
+| 2023/07/18 | [ 1851. 包含每个查询的最小区间
+ ](https://leetcode.cn/problems/minimum-interval-to-include-each-query/submissions/) | [ minimum-interval-to-include-each-query ](Python/minimum-interval-to-include-each-query.py) | Hard |
 
 ## 学习计划
 
