@@ -99,6 +99,7 @@
 | 2023/07/18 | [ 1851. 包含每个查询的最小区间 ](https://leetcode.cn/problems/minimum-interval-to-include-each-query/submissions/) | [ minimum-interval-to-include-each-query ](Python/minimum-interval-to-include-each-query.py) | Hard |
 | 2023/08/07 | [ 344. 反转字符串 ](https://leetcode.cn/problems/reverse-string/description/) | [ reverse-string ](Python/reverse-string.py) | Easy |
 | 2023/08/08 | [ 1749. 任意子数组和的绝对值的最大值 ](https://leetcode.cn/problems/maximum-absolute-sum-of-any-subarray/description/) | [ maximum-absolute-sum-of-any-subarray ](Python/maximum-absolute-sum-of-any-subarray.py) | Medium |
+| 2023/08/09 | [ 1281. 整数的各位积和之差 ](https://leetcode.cn/problems/subtract-the-product-and-sum-of-digits-of-an-integer/description/) | [ subtract-the-product-and-sum-of-digits-of-an-integer ](Python/subtract-the-product-and-sum-of-digits-of-an-integer.py) | Easy |
 
 ## 学习计划
 
