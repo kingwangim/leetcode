@@ -101,6 +101,7 @@
 | 2023/08/08 | [ 1749. 任意子数组和的绝对值的最大值 ](https://leetcode.cn/problems/maximum-absolute-sum-of-any-subarray/description/) | [ maximum-absolute-sum-of-any-subarray ](Python/maximum-absolute-sum-of-any-subarray.py) | Medium |
 | 2023/08/09 | [ 1281. 整数的各位积和之差 ](https://leetcode.cn/problems/subtract-the-product-and-sum-of-digits-of-an-integer/description/) | [ subtract-the-product-and-sum-of-digits-of-an-integer ](Python/subtract-the-product-and-sum-of-digits-of-an-integer.py) | Easy |
 | 2023/08/11 | [ 1572. 矩阵对角线元素的和 ](https://leetcode.cn/problems/matrix-diagonal-sum/description/) | [ matrix-diagonal-sum ](Python/matrix-diagonal-sum.py) | Easy |
+| 2023/08/24 | [ 1267. 统计参与通信的服务器 ](https://leetcode.cn/problems/count-servers-that-communicate/submissions/) | [ count-servers-that-communicate ](Python/count-servers-that-communicate.py) | Medium |
 
 ## 学习计划
 
