@@ -102,6 +102,7 @@
 | 2023/08/09 | [ 1281. 整数的各位积和之差 ](https://leetcode.cn/problems/subtract-the-product-and-sum-of-digits-of-an-integer/description/) | [ subtract-the-product-and-sum-of-digits-of-an-integer ](Python/subtract-the-product-and-sum-of-digits-of-an-integer.py) | Easy |
 | 2023/08/11 | [ 1572. 矩阵对角线元素的和 ](https://leetcode.cn/problems/matrix-diagonal-sum/description/) | [ matrix-diagonal-sum ](Python/matrix-diagonal-sum.py) | Easy |
 | 2023/08/24 | [ 1267. 统计参与通信的服务器 ](https://leetcode.cn/problems/count-servers-that-communicate/submissions/) | [ count-servers-that-communicate ](Python/count-servers-that-communicate.py) | Medium |
+| 2023/08/25 | [ 1448. 统计二叉树中好节点的数目 ](https://leetcode.cn/problems/count-good-nodes-in-binary-tree/description/) | [ count-good-nodes-in-binary-tree ](Python/count-good-nodes-in-binary-tree.py) | Medium |
 
 ## 学习计划
 
