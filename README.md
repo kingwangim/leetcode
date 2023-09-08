@@ -104,6 +104,7 @@
 | 2023/08/25 | [ 1448. 统计二叉树中好节点的数目 ](https://leetcode.cn/problems/count-good-nodes-in-binary-tree/description/) | [ count-good-nodes-in-binary-tree ](Python/count-good-nodes-in-binary-tree.py) | Medium |
 | 2023/08/27 | [ 56. 合并区间 ](https://leetcode.cn/problems/merge-intervals/description/) | [ merge-intervals ](Python/merge-intervals.py) | Medium |
 | 2023/08/28 | [ 57. 插入区间 ](https://leetcode.cn/problems/insert-interval/description/) | [ insert-interval ](Python/insert-interval.py) | Medium |
+| 2023/09/08 | [ 2651. 计算列车到站时间 ](https://leetcode.cn/problems/calculate-delayed-arrival-time/) | [ calculate-delayed-arrival-time ](Python/calculate-delayed-arrival-time.py) | Easy |
 
 ## 学习计划
 
