@@ -145,6 +145,7 @@
 | 树 | [98. 验证二叉搜索树 validate-binary-search-tree](https://leetcode.cn/problems/validate-binary-search-tree/) | [validate-binary-search-tree.py](Python/validate-binary-search-tree.py) | Medium |
 | 树 | [653. 两数之和 IV - 输入二叉搜索 two-sum-iv-input-is-a-bst](https://leetcode.cn/problems/two-sum-iv-input-is-a-bst/) | [two-sum-iv-input-is-a-bst.py](Python/two-sum-iv-input-is-a-bst.py) | Easy |
 | 树 | [235. 二叉搜索树的最近公共祖先 lowest-common-ancestor-of-a-binary-search-tree](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [lowest-common-ancestor-of-a-binary-search-tree.py](Python/lowest-common-ancestor-of-a-binary-search-tree.py) | Medium |
+| 队列 | [1670. 设计前中后队列 design-front-middle-back-queue](https://leetcode.cn/problems/design-front-middle-back-queue/) | [design-front-middle-back-queue.py](Python/design-front-middle-back-queue.py) | Medium |
 
 ### 初级算法
 
